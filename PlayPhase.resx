@@ -5355,7 +5355,7 @@
   <data name="VolumeImg.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EAAACxABrSO9dQAADtpJREFUeF7t3VnIbXUZx3GnnDK1TFJMpRwQAnMeLsQbM9EUFaTwVuwuI0Ew55yH
+        DwAACw8BkvkDpQAADtpJREFUeF7t3VnIbXUZx3GnnDK1TFJMpRwQAnMeLsQbM9EUFaTwVuwuI0Ew55yH
         SBxxyFCcIEQluihFC+cpTQNzyjk1L6S0cO70e/I98nr8vefd+/2vtfZ6/v/vFz4I6xzO2tu117OntdZe
         ZdmyZQAaZRcCaINdCKANdiGANtiFANpgFwJog10IoA12IYA22IUA2mAXAmiDXQigDXYhgDbYhQDaYBcC
         aINdCKANdiGANtiFANpgFwJog10IoA12IYA2EE3bt+WH8nO5SX4pp8tP5BtCRBV2gNwu8bSxkA/kVjlY
@@ -9421,7 +9421,7 @@
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>GradeUP</value>
+    <value>GradeUP!</value>
   </data>
   <data name="&gt;&gt;GameTimer.Name" xml:space="preserve">
     <value>GameTimer</value>

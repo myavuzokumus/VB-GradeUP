@@ -85,7 +85,7 @@ Partial Class GGPhase
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "GGPhase"
-        Me.Text = "GGPhase"
+        Me.Text = "Game over"
         CType(Me.GameOverIMG, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.GradeImg, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

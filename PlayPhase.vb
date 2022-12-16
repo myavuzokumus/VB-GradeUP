@@ -184,6 +184,7 @@ Public Class PlayPhase
     Private Sub PlayPhase_Load(sender As Object, e As EventArgs) Handles Me.Load
         If MusicVL = False Then
             VolumeImg.Image = My.Resources.soundoff
+            My.Computer.Audio.Play(My.Resources.ClickSound, AudioPlayMode.Background)
         End If
     End Sub
 
